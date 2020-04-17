@@ -1,0 +1,6 @@
+echo "# yamakasi" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Faust221/yamakasi.git
+git push -u origin master
